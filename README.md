@@ -1,5 +1,5 @@
 # rlbench_data_collection
-Collect demonstrations from tasks. It's a part of my capstone project[Github](http://github.com/HMTCuro/ARIN7600_2025).
+Collect demonstrations from tasks. It's a part of my capstone project([Github](http://github.com/HMTCuro/ARIN7600_2025)).
 
 There are some dataset collected ([Huggingface](https://huggingface.co/datasets/Zenghh2000/rlbench_dataset))
 
