@@ -14,6 +14,7 @@ test_eef.py is used to verify the availability of the saved gripper pose data.
 The dataset is organized in a hierarchical structure to facilitate efficient model training and data analysis. Each task maintains a dedicated root directory containing individual episode subdirectories.
 
 ## Directory Organization
+```
 task_root_directory/
 ├── episode_0001/
 │ ├── images/
@@ -30,3 +31,4 @@ task_root_directory/
 │ ├── images/
 │ └── data.json
 └── ...
+```
