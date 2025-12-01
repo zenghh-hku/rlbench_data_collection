@@ -6,3 +6,5 @@ There are some dataset collected ([Huggingface](https://huggingface.co/datasets/
 data_collection.py can run directly with RLBench library.
 
 eval.py is written in imitation of the main.py in the example of $\pi_0$([Github](https://github.com/Physical-Intelligence/openpi)) project and requires a corresponding environment.
+
+test_eef.py is used to verify the availability of the saved gripper pose data.
