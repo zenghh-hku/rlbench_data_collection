@@ -1,0 +1,25 @@
+# RLBench Task Train List
+
+BeatTheBuzz
+CloseBox #
+CloseGrill #
+OpenGrill
+CloseLaptopLid
+InsertOntoSquarePeg
+MeatOffGrill
+MeatOnGrill #
+PhoneOnBase #
+PickAndLift #
+PickAndLiftSmall 
+PutKnifeOnChoppingBoard #
+ReachAndDrag
+ScrewNail
+SetTheTable
+SlideBlockToTarget
+StackBlocks #
+StackCups #
+StackWine
+StraightenRope
+TakePlateOffColoredDishRack #
+TvOn
+TurnTap
